@@ -1,6 +1,6 @@
 body {
     background-color: #4e9deb;
-    color: white;              /* Make all text white */
+    color: white;             
 }
 
 label, h1, h2, h3, p, a, span, input, button {
@@ -8,7 +8,7 @@ label, h1, h2, h3, p, a, span, input, button {
 }
 
 input, select, textarea {
-    background-color: #4e9deb; /* Optional: dark input background */
+    background-color: #4e9deb; 
     border: 1px solid #ccc;
     color: white;
 }

@@ -60,7 +60,7 @@ test_data_accuracy=accuracy_score(X_test_prediction,Y_test)
 print("Accuracy on Test data:",test_data_accuracy)
 
 #predictive system 
-
+#can input any other data from the dataset
 input_data=(52,1,0,125,212,0,1,168,0,1,2,2,3)
 input_data_as_numpy_array=np.asarray(input_data)
 input_data_reshape=input_data_as_numpy_array.reshape(1,-1)
