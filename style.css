@@ -1,0 +1,103 @@
+body {
+    background-color: #4e9deb;
+    color: white;              /* Make all text white */
+}
+
+label, h1, h2, h3, p, a, span, input, button {
+    color: rgb(6, 0, 0) !important;
+}
+
+input, select, textarea {
+    background-color: #4e9deb; /* Optional: dark input background */
+    border: 1px solid #ccc;
+    color: white;
+}
+
+.btn {
+    color: white;
+}
+
+
+    body {
+      background-color: #86ddc8; 
+      color: white;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 500px;
+      margin: 50px auto;
+      padding: 30px;
+      background-color: #609779; 
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
+
+    input[type="text"], input[type="number"] {
+      width: 100%;
+      padding: 10px 12px;
+      margin-bottom: 20px;
+      border: none;
+      border-radius: 5px;
+      font-size: 1rem;
+    }
+
+    .radio-group {
+      margin-bottom: 20px;
+    }
+
+    .radio-group label {
+      font-weight: normal;
+      margin-right: 20px;
+      cursor: pointer;
+      font-size: 0.95rem;
+    }
+
+    input[type="radio"] {
+      transform: scale(0.85);
+      margin-right: 6px;
+      cursor: pointer;
+      vertical-align: middle;
+    }
+
+    button {
+      width: 100%;
+      background-color: #1c365f;
+      color: white;
+      padding: 12px 0;
+      font-size: 1.1rem;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 700;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #153152;
+    }
+ body {
+        margin: auto;
+        background-image: url("https://i.ibb.co/XFXPPDp/abc.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-family: "Open Sans", sans-serif;
+    }
+    
+
+    
+
+
+
